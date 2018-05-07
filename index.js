@@ -1,3 +1,3 @@
 function getFirstSelector(selector) {
-  document.getElementById('selector')
+  var id = document.getElementById(selector)
 }

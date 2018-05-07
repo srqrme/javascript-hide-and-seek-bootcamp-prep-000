@@ -1,3 +1,3 @@
 function getFirstSelector(selector) {
-  const id = document.getElementById('id')
+  const id = document.getElementById('app')
 }

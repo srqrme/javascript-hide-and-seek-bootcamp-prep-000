@@ -1,3 +1,3 @@
 function getFirstSelector(selector) {
-  return document.getElementById('app')
+  return document.querySelector(selector)
 }
